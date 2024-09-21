@@ -1,0 +1,3 @@
+[submodule "library_communication_packet"]
+	path = library_communication_packet
+	url = git@github.com:DianMu000/library_communication_packet.git
